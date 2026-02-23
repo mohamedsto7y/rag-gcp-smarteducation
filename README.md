@@ -1,8 +1,8 @@
 # RAG System on GCP — Smart Education
 
 An end-to-end Retrieval-Augmented Generation (RAG) system built on Google Cloud Platform that ingests Wikipedia documents, indexes them for semantic retrieval, fine-tunes the retrieval component using a cross-encoder reranker, and answers grounded questions with citations via a simple UI.
-
-🚀 **Live Demo:** https://rag-system-817768722263.us-central1.run.app
+![Project Screenshot](screenshots/wk4.png)
+**Live Api:** https://rag-system-817768722263.us-central1.run.app
 
 ---
 
