@@ -2,7 +2,8 @@
 
 An end-to-end Retrieval-Augmented Generation (RAG) system built on Google Cloud Platform that ingests Wikipedia documents, indexes them for semantic retrieval, fine-tunes the retrieval component using a cross-encoder reranker, and answers grounded questions with citations via a simple UI.
 ![Project Screenshot](screenshots/1.png)
-**Live Api:** https://rag-system-817768722263.us-central1.run.app
+**Live API:** https://rag-system-817768722263.us-central1.run.app/docs  
+**Live Demo:** https://rag-ui-817768722263.us-central1.run.app
 
 ---
 
