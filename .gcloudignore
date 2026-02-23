@@ -1,0 +1,15 @@
+.gcloudignore
+.git
+venv/
+__pycache__/
+*.pyc
+data/
+models/
+cloud-sql-proxy.exe
+finetuning/
+evaluation/
+ingestion/
+retrieval/
+ui/
+scripts/
+docker/
